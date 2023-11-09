@@ -22,9 +22,11 @@ public class Lab {
      * for loop, you will need to write code that appends elements from nums to str, one by one, in the format described
      * above.
      *
-     * After completing the problem, I recommend using your IDE's debugger to walk through the loop
-     * goes through to help you visualize the values changing, as understanding this process is critical for all future
-     * coding challenges.
+     * After completing the problem, I recommend using your IDE's debugger to walk through the loop. The debugger will
+     * allow you to step through the code and help you visualize the values as they change over time. We recommend that
+     * you review the Visual Studio Code Debugging documentation: https://code.visualstudio.com/Docs/editor/debugging
+     * to get a better understanding of how to use these tools. Debugging is an important process and is critical for 
+     * your success in future coding challenges and as a developer.
      *
      * @param nums the array to be manipulated.
      * @return a string representation of all values of nums, with the values separated by spaces.
